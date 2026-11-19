@@ -1,6 +1,6 @@
 # 🔁 Autonomous Loops
 
-[![ClawHub Skill](https://img.shields.io/badge/ClawHub-Skill-blue)](https://clawhub.ai/djc00p/autonomous-loops) [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue)](#) [![Automation](https://img.shields.io/badge/Automation-D54309.svg)](https://en.wikipedia.org/wiki/Automation) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![ClawHub Skill](https://img.shields.io/badge/ClawHub-Skill-blue)](https://clawhub.ai/djc00p/skills/autonomous-agent-loops) [![Agent Skill](https://img.shields.io/badge/Agent-Skill-blue)](#) [![Automation](https://img.shields.io/badge/Automation-D54309.svg)](https://en.wikipedia.org/wiki/Automation) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Autonomous Loops** provides patterns for running agents in loops — sequential pipelines, persistent REPL sessions, parallel spec-driven generation, PR automation, cleanup passes, and RFC-driven DAG orchestration.
 
